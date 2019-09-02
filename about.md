@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-My name is Sam Akins. I'm a quantitative developer and trader in the finance space specializing in statistics, machine learning, and software development. 
+My name is Sam Akins. I'm a quantitative developer and trader from Chicago, Illinois specializing in statistics, machine learning, and software development. 
 
 LinkedIn:
-[samakins][linkedin-page]
+[sam-akins][linkedin-page]
 
 
 
