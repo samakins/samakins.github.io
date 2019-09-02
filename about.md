@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Sam Akins. I'm a quantitative developer and trader in the finance space specializing in statistics, machine learning, and software development. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+LinkedIn:
+[samakins][linkedin-page]
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+[github-page]: https://github.com/samakins
+[linkedin-page]: https://www.linkedin.com/in/sam-akins-3bb64668
